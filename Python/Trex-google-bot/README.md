@@ -20,6 +20,6 @@ python trex_bot.py
 ```
 
 ## Some screenshot : 
-
+#### After running the bot for 2 hours :
 <img src="./imgs/best-score.jpg">
 <img src="./imgs/congratulation.jpg">

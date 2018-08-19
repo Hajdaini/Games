@@ -1,2 +1,2 @@
 # Games
-<img src="game.jpg">
+<img src="game.png">

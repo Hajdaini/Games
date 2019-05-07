@@ -1,2 +1,3 @@
 # Games
-<img src="game.png">
+
+![game](game.png)

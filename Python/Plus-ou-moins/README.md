@@ -1,6 +1,7 @@
 # Plus-ou-moins avancé
 
 **Défi avec les amis:**
+
 Petit défi de speedrun avec quelques amis sur discord, pour coder un plus ou moins avancé avec une contrainte de temps (1h30) et des contraintes de codages et de règles comme : 
 
 1. Rejouer la partie après avoir perdu (sauf si on tape la touche -1 qui sert à quitter ) 
@@ -13,6 +14,7 @@ Petit défi de speedrun avec quelques amis sur discord, pour coder un plus ou mo
 etc ...
 
 **Règle de base :**
+
 1.  L'ordinateur tire au sort un nombre entre 1 et 100.   
 2.  Il vous demande de deviner le nombre. Vous entrez donc un nombre entre 1 et 100.   
 3.  L'ordinateur compare le nombre que vous avez entré avec le nombre « mystère » qu'il a tiré au sort. Il vous dit si le nombre mystère est supérieur ou inférieur à celui que vous avez entré.    
@@ -21,3 +23,7 @@ etc ...
 6.  Et ainsi de suite, jusqu'à ce que vous trouviez le nombre mystère.
 
 **exécution :** exécuter le fichier main.py et bonne chance 🤗 !
+
+```shell
+python3 main.py
+```

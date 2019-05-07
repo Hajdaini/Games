@@ -7,19 +7,22 @@
 - If it is only the **day mode** (the website have only the day mode : http://www.trex-game.skipser.com/) 
 - If you only download those **modules** : 
 
-```
-pip install Pillow
-pip install numpy
-pip install PyAutoGUI
-```
+  ```
+  pip3 install Pillow
+  pip3 install numpy
+  pip3 install PyAutoGUI
+  ```
 
 ## How it works : 
 
 ```
-python trex_bot.py
+python3 trex_bot.py
 ```
 
 ## Some screenshot : 
-#### After running the bot for 2 hours :
-<img src="./imgs/best-score.jpg">
-<img src="./imgs/congratulation.jpg">
+
+**After running the bot for 2 hours :**
+
+![best-score](imgs/best-score.jpg)
+
+![congratulation](imgs/congratulation.jpg)

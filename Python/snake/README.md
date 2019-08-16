@@ -15,5 +15,8 @@ pip3 install windows-curses
 
 ## Screenshots
 
+![snake game](imgs/snake-game.png)
 
+![snake game Game Over](imgs/snake-game-game-over.png)
 
+![snake game pause](imgs/snake-game-pause.png)

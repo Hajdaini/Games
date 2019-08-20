@@ -14,4 +14,4 @@ pip3 install windows-curses
 
 ## Screenshots
 
-![tetris game](imgs/tetris-game.png)
+![tetris game](tetris-game.png)

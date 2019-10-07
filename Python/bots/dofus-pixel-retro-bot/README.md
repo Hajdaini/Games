@@ -1,4 +1,4 @@
-> **This bot will work only for 1920x720 resolution screen**
+**`This bot will work only for 1920x720 resolution screen`**
 
 # Dofus retro bot
 
